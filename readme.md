@@ -7,4 +7,9 @@ A dflow template for machine learning training with small size data. It only req
 ## How to use
 ###
 ## Todo
+Install information will be updated by 10/01  
+template for computational resource profiling
+
 ## Author
+Hao Yu  
+hao.yu@berkeley.edu
